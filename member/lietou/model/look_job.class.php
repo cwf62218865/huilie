@@ -70,7 +70,7 @@ class look_job_controller extends company
 		$this->yunset("company_job",$company_job);
 		$this->yunset("rows",$rows);
 		$this->yunset("js_def",5);
-		$this->com_tpl('look_job');
+		$this->lt_tpl('look_job');
 	}
 	function del_action(){
 		if($_POST['delid']||$_GET['id']){

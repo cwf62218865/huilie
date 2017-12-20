@@ -19,7 +19,7 @@ class uppic_controller extends company{
 		} 
 		$this->yunset("company",$company);
 		$this->yunset("js_def",2);
-		$this->com_tpl('uppic');
+		$this->lt_tpl('uppic');
 	}
 	function uppath(){
 		$upload_path = "../data/upload/company/";

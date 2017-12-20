@@ -21,7 +21,7 @@ class reward_list_controller extends company{
 		$statis[integral]=number_format($statis[integral]);
 		$this->yunset("statis",$statis);
 		$this->yunset("js_def",4);
-		$this->com_tpl('reward_list');
+		$this->lt_tpl('reward_list');
 	}
 	
  function del_action(){

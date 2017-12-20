@@ -21,6 +21,7 @@ $action = $_GET['act'];
 if($model=="")	$model="index";
 if($action=="")	$action = "index"; 
 $usertype=$_COOKIE['usertype'];
+
 if($usertype==1){
 	$type="user";
 }else if($usertype==2){

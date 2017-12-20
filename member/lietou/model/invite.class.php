@@ -54,7 +54,7 @@ class invite_controller extends company
 		$this->public_action();
 		$this->company_satic();
 		$this->yunset("js_def",5);
-		$this->com_tpl('invite');
+		$this->lt_tpl('invite');
 	}
 	function del_action(){
 		if($_POST['delid'] || $_GET['id']){

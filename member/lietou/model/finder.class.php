@@ -78,7 +78,7 @@ class finder_controller extends company{
 		$this->yunset("js_def",5);
 		$this->public_action();
 		$this->yunset("finder",$finder);
-		$this->com_tpl('finder');
+		$this->lt_tpl('finder');
 	}
 	function edit_action(){
 		include(CONFIG_PATH."db.data.php");
@@ -116,7 +116,7 @@ class finder_controller extends company{
 		$this->yunset("uptime",$uptime);
 		$this->public_action();
 		$this->yunset("js_def",5);
-		$this->com_tpl('finderinfo');
+		$this->lt_tpl('finderinfo');
 	}
 	function save_action()
 	{

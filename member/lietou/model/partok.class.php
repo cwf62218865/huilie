@@ -36,9 +36,9 @@ class partok_controller extends company{
 		$this->company_satic();
 		$this->yunset("js_def",3);
 		if(intval($_GET['w'])==1){
-			$this->com_tpl('part');
+			$this->lt_tpl('part');
 		}else{
-			$this->com_tpl('partok');
+			$this->lt_tpl('partok');
 		}
 	}
 	function opera_action(){

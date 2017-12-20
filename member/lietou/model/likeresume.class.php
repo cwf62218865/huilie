@@ -89,7 +89,7 @@ class likeresume_controller extends company{
 		$this->yunset("company_job",$company_job);
 		$this->public_action();
 		$this->yunset("js_def",3);
-		$this->com_tpl('likeresume');
+		$this->lt_tpl('likeresume');
 	}
 }
 ?>

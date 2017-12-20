@@ -30,7 +30,7 @@ class paylogtc_controller extends company{
 		$this->yunset("statis",$statis);
 		$this->yunset("rating",$rating);
 		$this->yunset("js_def",4);
-		$this->com_tpl('paylogtc');
+		$this->lt_tpl('paylogtc');
 	}
 }
 ?>

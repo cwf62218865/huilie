@@ -40,7 +40,7 @@ class partadd_controller extends company{
 		$this->yunset(array('morning'=>$morning,'noon'=>$noon,'afternoon'=>$afternoon));
 		$this->yunset("today",date("Y-m-d"));
 		$this->yunset("js_def",3);
-		$this->com_tpl('partadd');
+		$this->lt_tpl('partadd');
 	}
 	function save_action(){
 		if($_POST['submit']){

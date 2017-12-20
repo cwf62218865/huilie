@@ -100,7 +100,7 @@ class attention_me_controller extends company{
 
 		$this->company_satic();
 		$this->yunset("js_def",5);
-		$this->com_tpl('attention_me');
+		$this->lt_tpl('attention_me');
 	}
 	
 }

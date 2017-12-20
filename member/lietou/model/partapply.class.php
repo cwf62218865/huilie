@@ -64,7 +64,7 @@ class partapply_controller extends company{
 		$this->yunset(array('StateList'=>array(array('id'=>1,'name'=>'未查看'),array('id'=>2,'name'=>'已查看'),array('id'=>3,'name'=>'已联系'))));
 		$this->company_satic();
 		$this->yunset("js_def",3);
-		$this->com_tpl('partapply');
+		$this->lt_tpl('partapply');
 	}
 	function status_action(){
 		if($_POST['id']&&$_POST['status']){

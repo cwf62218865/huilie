@@ -117,7 +117,7 @@ class hr_controller extends company{
 		$this->company_satic();
 		$this->yunset("js_def",5);
 		$this->yunset("jobnum",$jobnum);
-		$this->com_tpl('hr');
+		$this->lt_tpl('hr');
 	} 
 	function hrset_action(){
 		if($_POST['ajax']==1 && $_POST['ids']){

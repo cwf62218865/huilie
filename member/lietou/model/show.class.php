@@ -18,7 +18,7 @@ class show_controller extends company{
 		$this->yunset("sessionid",$sessionid);
 		$this->public_action();
 		$this->yunset("js_def",2);
-		$this->com_tpl('show');
+		$this->lt_tpl('show');
 	}
 	function del_action(){
 		if($_GET['id']){
@@ -45,7 +45,7 @@ class show_controller extends company{
 			$this->yunset("uid",$this->uid);
 			$this->yunset("id",$_GET['id']);
 		    $this->yunset("js_def",2);
-			$this->com_tpl('editshow');
+			$this->lt_tpl('editshow');
 		}
 	}
 	function delshow_action(){
@@ -82,7 +82,7 @@ class show_controller extends company{
 		$this->public_action();
 		$this->yunset("uid",$this->uid);
 		$this->yunset("js_def",2);
-		$this->com_tpl('addshow');
+		$this->lt_tpl('addshow');
 	}
 	function upshow_action(){
 		if($_POST['submitbtn']){

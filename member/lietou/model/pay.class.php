@@ -20,7 +20,7 @@ class pay_controller extends company
 		}
 		$this->yunset("statis",$statis);
 		$this->yunset("js_def",4);
-		$this->com_tpl('pay');
+		$this->lt_tpl('pay');
 	}
 	function dingdan_action(){
 		if($_POST['price'] || $_POST['money_int'] || $_POST['comvip'] || $_POST['comservice']){

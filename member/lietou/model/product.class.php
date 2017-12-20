@@ -21,12 +21,12 @@ class product_controller extends company{
 		$this->get_page("company_product",$where,$pageurl,"10","`title`,`id`,`status`,`ctime`,`statusbody`");
 		$this->public_action();
 		$this->yunset("js_def",2);
-		$this->com_tpl("product");
+		$this->lt_tpl("product");
 	}
 	function add_action(){
 		$this->public_action();
 		$this->yunset("js_def",2);
-		$this->com_tpl("addproduct");
+		$this->lt_tpl("addproduct");
 	}
 	function save_action(){
 		if($_POST['submit']){
@@ -73,7 +73,7 @@ class product_controller extends company{
 		$editrow=$this->obj->DB_select_once("company_product","`id`='".(int)$_GET['id']."'");
 		$this->yunset("editrow",$editrow);
 		$this->yunset("js_def",2);
-		$this->com_tpl("addproduct");
+		$this->lt_tpl("addproduct");
 	}
 	function del_action(){
 		if(is_array($_GET['delid'])){

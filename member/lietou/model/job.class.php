@@ -69,9 +69,9 @@ class job_controller extends company{
 		$this->company_satic();
 		$this->yunset("js_def",3);
 		if(intval($_GET['w'])==1){
-			$this->com_tpl('joblist');
+			$this->lt_tpl('joblist');
 		}else{
-			$this->com_tpl('job');
+			$this->lt_tpl('job');
 		}
 	}
 	
@@ -115,7 +115,7 @@ class job_controller extends company{
 		$this->yunset("rows",$rows);
 		$this->yunset("js_def",3);
 		$this->company_satic();
-		$this->com_tpl('bidding');
+		$this->lt_tpl('bidding');
 	}
 	function refresh_action(){
 		$nid=$this->obj->DB_update_all("company_job","`lastupdate`='".time()."'","`uid`='".$this->uid."' and `id`='".(int)$_POST['id']."'");

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.21-dev, created on 2017-12-20 16:41:44
+<?php /* Smarty version Smarty-3.1.21-dev, created on 2017-12-20 17:54:12
          compiled from "D:\phpStudy\WWW\huilie\app\template\default\ajax\login.htm" */ ?>
-<?php /*%%SmartyHeaderCode:171695a3a22487576f4-18706694%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:179085a3a3344237cd4-46255822%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '171695a3a22487576f4-18706694',
+  'nocache_hash' => '179085a3a3344237cd4-46255822',
   'function' => 
   array (
   ),
@@ -27,9 +27,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.21-dev',
-  'unifunc' => 'content_5a3a22488881f7_98502241',
+  'unifunc' => 'content_5a3a33442eb7d6_75278230',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5a3a22488881f7_98502241')) {function content_5a3a22488881f7_98502241($_smarty_tpl) {?><?php if (!is_callable('smarty_function_url')) include 'D:\\phpStudy\\WWW\\huilie\\app\\include\\libs\\plugins\\function.url.php';
+<?php if ($_valid && !is_callable('content_5a3a33442eb7d6_75278230')) {function content_5a3a33442eb7d6_75278230($_smarty_tpl) {?><?php if (!is_callable('smarty_function_url')) include 'D:\\phpStudy\\WWW\\huilie\\app\\include\\libs\\plugins\\function.url.php';
 ?><?php if ($_smarty_tpl->tpl_vars['usertype']->value=="1") {?>
 	<div class="login_after_user_box">
 	  <div class="login_after_user_photo"> <img width="40" height="50" src="<?php echo $_smarty_tpl->tpl_vars['member']->value['photo'];?>

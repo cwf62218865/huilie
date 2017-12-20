@@ -225,8 +225,8 @@ class company extends common{
 	}
 		
 	
-	function com_tpl($tpl){
-		$this->yuntpl(array('member/com/'.$tpl));
+	function lt_tpl($tpl){
+		$this->yuntpl(array('member/lietou/'.$tpl));
 	}
 	
 	function get_user(){

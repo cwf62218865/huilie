@@ -39,7 +39,7 @@ class search_controller extends company
 		$this->company_satic();
 		$this->yunset("jobnum",$jobnum);
 		$this->yunset("js_def",3);
-		$this->com_tpl('search');
+		$this->lt_tpl('search');
 	}
 }
 ?>

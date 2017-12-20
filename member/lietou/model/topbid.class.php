@@ -34,7 +34,7 @@ class topbid_controller extends company
 		$this->yunset("hy",$_GET['hy']);
 		$this->yunset("list",$list);
 		$this->yunset("js_def",3);
-		$this->com_tpl('topbid');
+		$this->lt_tpl('topbid');
 	}
 }
 ?>

@@ -29,7 +29,7 @@ class part_controller extends company{
 		$this->yunset("rows",$rows);
 		$this->company_satic();
 		$this->yunset("js_def",3);
-		$this->com_tpl('partlist');
+		$this->lt_tpl('partlist');
 	}
 	function del_action(){
 		if($_GET['del']||$_GET['id']){

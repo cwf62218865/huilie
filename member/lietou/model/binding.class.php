@@ -25,7 +25,7 @@ class binding_controller extends company{
 		$this->public_action();
 		$this->get_user();
 		$this->yunset("js_def",2);
-		$this->com_tpl("binding");
+		$this->lt_tpl("binding");
 	}
 	function save_action(){
 		if($_POST['moblie']){

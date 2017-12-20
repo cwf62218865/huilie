@@ -66,7 +66,7 @@ class blacklist_controller extends company
 		$this->yunset("rows",$rows);
 		$this->company_satic();
 		$this->yunset("js_def",5);
-		$this->com_tpl('blacklist');
+		$this->lt_tpl('blacklist');
 	}
 	function del_action()
 	{

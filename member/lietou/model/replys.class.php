@@ -20,7 +20,7 @@ class replys_controller extends company
 			$this->yunset("id",$_GET['id']);
 			$this->public_action();
 			$this->yunset("js_def",7);
-			$this->com_tpl('replys');
+			$this->lt_tpl('replys');
 		}else{
 			$this->ACT_layer_msg("该信息不存在！",9,"index.php?c=seemessage");
 		}

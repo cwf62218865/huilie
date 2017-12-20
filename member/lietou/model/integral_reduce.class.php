@@ -12,7 +12,7 @@ class integral_reduce_controller extends company{
 	function index_action(){
         $this->public_action();
 		$this->yunset("js_def",4);
-		$this->com_tpl('integral_reduce');
+		$this->lt_tpl('integral_reduce');
 	}
 }
 ?>

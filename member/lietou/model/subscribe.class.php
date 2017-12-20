@@ -35,7 +35,7 @@ class subscribe_controller extends company{
 		$this->yunset("rows",$rows);
 		$this->public_action();
 		$this->yunset("js_def",5);
-		$this->com_tpl('subscribe');
+		$this->lt_tpl('subscribe');
 	}
 	function record_action(){
 		$urlarr=array("c"=>"subscribe","act"=>"record","page"=>"{{page}}");
@@ -44,7 +44,7 @@ class subscribe_controller extends company{
 		$this->yunset("rows",$rows);
 		$this->public_action();
 		$this->yunset("js_def",5);
-		$this->com_tpl('subscriberecord');
+		$this->lt_tpl('subscriberecord');
 	}  
 	function del_action(){
 		if($_POST['delid']||$_GET['id']){

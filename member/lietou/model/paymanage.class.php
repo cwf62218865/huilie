@@ -21,7 +21,7 @@ class paymanage_controller extends company
 		$where="`uid`='".$this->uid."' and `order_state`='2' order by order_time desc";
 		$this->get_page("company_order",$where,$pageurl,"10");
 		$this->yunset("js_def",4);
-		$this->com_tpl('paymanage');
+		$this->lt_tpl('paymanage');
 	}
 }
 ?>

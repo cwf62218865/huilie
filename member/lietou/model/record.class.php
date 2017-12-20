@@ -65,7 +65,7 @@ class record_controller extends company{
 		
 		$this->yunset("rows",$rows);
 		$this->yunset("js_def",5);
-		$this->com_tpl('record');
+		$this->lt_tpl('record');
 	}
 	function del_action(){
 		if($_POST['delid']||$_GET['del']){

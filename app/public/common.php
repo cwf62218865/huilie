@@ -68,6 +68,7 @@ class common{
 		$path['userstyle']=TPL_PATH."member/user";
 		$path['user_style']=$this->config['sy_weburl']."/app/template/member/user";
 		$path['comstyle']=TPL_PATH."member/com";
+		$path['ltstyle']=TPL_PATH."member/lietou";
 		$path['com_style']=$this->config['sy_weburl']."/app/template/member/com";
 		$path['wapstyle']=TPL_PATH."wap";
 		$path['wap_style']=$this->config['sy_weburl']."/app/template/wap";

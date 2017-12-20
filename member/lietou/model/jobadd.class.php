@@ -73,7 +73,7 @@ class jobadd_controller extends company{
 		$this->yunset("row",$row);
 		$this->yunset("today",date('Y-m-d',time()));
 		$this->yunset("js_def",3);
-		$this->com_tpl('jobadd');
+		$this->lt_tpl('jobadd');
 	}
 	function edit_action(){
 		include(CONFIG_PATH."db.data.php");
@@ -135,7 +135,7 @@ class jobadd_controller extends company{
 		$this->yunset("company",$company);
 		$this->yunset("row",$row);
 		$this->yunset("js_def",3);
-		$this->com_tpl('jobadd');
+		$this->lt_tpl('jobadd');
 	}
 	function save_action(){
 		if($_POST['submitBtn']){

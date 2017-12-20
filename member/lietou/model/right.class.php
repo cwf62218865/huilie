@@ -65,7 +65,7 @@ class right_controller extends company{
 		
 		
 		$this->yunset("js_def",4);
-		$this->com_tpl('member_right');
+		$this->lt_tpl('member_right');
 	}
 	
 	function time_action(){
@@ -87,14 +87,14 @@ class right_controller extends company{
 		
 		$this->yunset("times",$times);
 		$this->yunset("js_def",4);
-		$this->com_tpl('member_time');
+		$this->lt_tpl('member_time');
 	}
 	function buyvip_action(){
 		$this->public_action();
 		$this->company_satic();
 		$this->yunset("js_def",4);
 		if($_GET['vipid']==0){
-			$this->com_tpl('buypl');
+			$this->lt_tpl('buypl');
 		}else{
 			$row=$this->obj->DB_select_once("company_rating","`id`='".(int)$_GET['vipid']."' and display='1'");
 			$this->yunset("row",$row);
@@ -103,7 +103,7 @@ class right_controller extends company{
 			}else{
 				$price=$row['integral_buy'];
 			}
-			$this->com_tpl('buyvip');
+			$this->lt_tpl('buyvip');
 		}
 	}
 	function added_action(){
@@ -134,7 +134,7 @@ class right_controller extends company{
 		$this->yunset("info",$info);
 		$this->yunset("rows",$rows);
 		$this->yunset("js_def",4);
-		$this->com_tpl('added');
+		$this->lt_tpl('added');
 	}
 }
 ?>

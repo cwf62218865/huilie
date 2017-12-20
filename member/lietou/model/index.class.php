@@ -90,7 +90,7 @@ class index_controller extends company{
 		$this->yunset("time",$time);
 		$this->public_action();
 		$this->yunset("js_def",1);
-		$this->com_tpl('index');
+		$this->lt_tpl('index');
 	}
 }
 ?>

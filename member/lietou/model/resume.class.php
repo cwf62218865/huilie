@@ -25,6 +25,6 @@ class resume_controller extends company{
         $this->yunset("type",$_GET['type']);
         $this->public_action();
         $this->yunset("js_def",5);
-        $this->com_tpl('resume');
+        $this->lt_tpl('resume');
     }
 }

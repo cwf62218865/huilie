@@ -14,7 +14,7 @@ class banner_controller extends company{
 		$this->yunset("banner",$banner); 
 		$this->public_action();
 		$this->yunset("js_def",2);
-		$this->com_tpl("banner");
+		$this->lt_tpl("banner");
 	}
 	
 	function save_action(){

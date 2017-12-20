@@ -11,7 +11,7 @@
 class info_controller extends company{
 	function index_action(){
 		 
-		$row=$this->obj->DB_select_once("company","`uid`='".$this->uid."'");
+		$row=$this->obj->DB_select_once("lietou","`uid`='".$this->uid."'");
 		if ($row['comqcode']){
 		    $row['comqcode']=str_replace('./', $this->config['sy_weburl'].'/', $row['comqcode']);
 		}
@@ -45,7 +45,8 @@ class info_controller extends company{
 		$cert=$this->obj->DB_select_once("company_cert","`uid`='".$this->uid."' and type='3'");
 		$this->yunset("cert",$cert);
 		$this->yunset("js_def",2);
-		$this->com_tpl('info');
+
+		$this->lt_tpl('info');
 	}
 	function save_action(){
 		if($_POST['submitbtn']){

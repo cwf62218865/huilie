@@ -44,7 +44,7 @@ class setname_controller extends company
 		}
 		$this->public_action();
 		$this->yunset("js_def",7);
-		$this->com_tpl('setname');
+		$this->lt_tpl('setname');
 	}
 }
 ?>

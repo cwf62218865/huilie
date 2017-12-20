@@ -66,7 +66,7 @@ class down_controller extends company{
 		$this->yunset("rows",$rows); 
 		$this->yunset("report",$this->config['com_report']); 
 		$this->yunset("js_def",5);
-		$this->com_tpl('down');
+		$this->lt_tpl('down');
 	}
 	function del_action(){
 		if($_POST['delid'] || $_GET['id']){
@@ -238,7 +238,7 @@ class down_controller extends company{
 				$this->obj->member_log("导出简历信息");
 				header("Content-Type: application/vnd.ms-excel");
 				header("Content-Disposition: attachment; filename=已下载的简历.xls");
-				$this->com_tpl('resume_xls');
+				$this->lt_tpl('resume_xls');
 			}
 		}
 	}

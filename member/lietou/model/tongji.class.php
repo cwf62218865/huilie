@@ -124,7 +124,7 @@ class tongji_controller extends company
 		}
 		$this->yunset("pielist",$list);
 		$this->yunset("js_def",2);
-		$this->com_tpl('tongji');
+		$this->lt_tpl('tongji');
 	}
 	function tj($table,$where,$days){
 		$joblist=$this->obj->DB_select_all($table,$where." GROUP BY td ORDER BY td DESC","FROM_UNIXTIME(`datetime`,'%Y%m%d') as td,count(*) as cnt");

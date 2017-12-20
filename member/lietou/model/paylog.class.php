@@ -50,7 +50,7 @@ class paylog_controller extends company{
 		}
 
 		$this->yunset("js_def",4);
-		$this->com_tpl('paylog');
+		$this->lt_tpl('paylog');
 	}
 	function del_action(){
 		if($this->usertype!='2' || $this->uid==''){

@@ -17,7 +17,7 @@ class ad_controller extends company
 		$this->yunset("js_def",4);
 		$rows=$this->obj->DB_select_all("ad_class","`type`='1'");
 		$this->yunset("rows",$rows);
-		$this->com_tpl('ad');
+		$this->lt_tpl('ad');
 	}
 	function adinfo_action()
 	{
@@ -30,7 +30,7 @@ class ad_controller extends company
 				$this->company_satic();
 				$this->yunset("js_def",4);
 				$this->yunset("row",$row);
-				$this->com_tpl('buyad');
+				$this->lt_tpl('buyad');
 			}else{
 				$this->ACT_msg("index.php?c=ad","·Ç·¨²Ù×÷£¡");
 			}

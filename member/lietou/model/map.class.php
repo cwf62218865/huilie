@@ -16,7 +16,7 @@ class map_controller extends company
 		$this->public_action();
 		$this->city_cache();
 		$this->yunset("js_def",2);
-		$this->com_tpl('map');
+		$this->lt_tpl('map');
 	}
 	function save_action(){
 	    $_POST=$this->post_trim($_POST);

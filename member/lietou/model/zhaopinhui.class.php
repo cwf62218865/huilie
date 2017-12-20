@@ -39,7 +39,7 @@ class zhaopinhui_controller extends company{
 		}
 		$this->yunset("rows",$rows);
 		$this->yunset("js_def",3);
-		$this->com_tpl("zhaopinhui");
+		$this->lt_tpl("zhaopinhui");
 	}
 	function del_action(){
 		$delid=$this->obj->DB_delete_all("zhaopinhui_com","`id`='".(int)$_GET['id']."' and `uid`='".$this->uid."'"," ");

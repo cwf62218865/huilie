@@ -24,19 +24,19 @@ class news_controller extends company
 		$pageurl=Url('member',$urlarr);
 		$this->get_page("company_news",$where,$pageurl,"10","`title`,`id`,`status`,`ctime`,`statusbody`");
 		$this->yunset("js_def",2);
-		$this->com_tpl("news");
+		$this->lt_tpl("news");
 	}
 	function add_action(){
 		$this->public_action();
 		$this->yunset("js_def",2);
-		$this->com_tpl("addnews");
+		$this->lt_tpl("addnews");
 	}
 	function edit_action(){
 		$this->public_action();
 		$editrow=$this->obj->DB_select_once("company_news","`id`='".(int)$_GET['id']."' and `uid`='".$this->uid."'");
 		$this->yunset("editrow",$editrow);
 		$this->yunset("js_def",2);
-		$this->com_tpl("addnews");
+		$this->lt_tpl("addnews");
 	}
 	function save_action(){
 		if($_POST['action']=="save"){

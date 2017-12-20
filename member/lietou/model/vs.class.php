@@ -13,7 +13,7 @@ class vs_controller extends company
 	function index_action(){
 		$this->public_action();
 		$this->yunset("js_def",7);
-		$this->com_tpl('vs');
+		$this->lt_tpl('vs');
 	}
 	function save_action(){
 		if($_POST['submit']){

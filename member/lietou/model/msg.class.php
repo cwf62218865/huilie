@@ -23,7 +23,7 @@ class msg_controller extends company
 		$this->obj->DB_update_all("msg","`com_remind_status`='1'","`job_uid`='".$this->uid."' and `com_remind_status`='0'");
 		$this->public_action();
 		$this->yunset("js_def",7);
-		$this->com_tpl('msg');
+		$this->lt_tpl('msg');
 	}
 	function del_action(){
 		if($_GET['id']){

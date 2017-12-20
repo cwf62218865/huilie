@@ -34,7 +34,7 @@ class special_controller extends company{
 		}
 		$this->yunset("rows",$rows);
 		$this->yunset("js_def",3);
-		$this->com_tpl("special");
+		$this->lt_tpl("special");
 	}
 	function del_action(){
 		$id=$this->obj->DB_select_once("special_com","`id`='".(int)$_GET['id']."' and `uid`='".$this->uid."' and `status`=0","uid,integral");

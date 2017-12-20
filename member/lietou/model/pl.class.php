@@ -34,7 +34,7 @@ class pl_controller extends company{
 		$this->yunset("com",$com);
 		$this->public_action();
 		$this->yunset("js_def",7);
-		$this->com_tpl('pl');
+		$this->lt_tpl('pl');
 	}
 	function save_action(){
 		if($_POST['submit']){

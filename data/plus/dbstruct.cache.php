@@ -131,6 +131,8 @@ $phpyun_invoice_record=array('id'=>'int(11)','oid'=>'int(11)','order_id'=>'varch
 ; 
 $phpyun_job_class=array('id'=>'int(11)','keyid'=>'int(11)','name'=>'varchar(50)','sort'=>'int(11)','content'=>'text')
 ; 
+$phpyun_lietou=array('uid'=>'int(11)','name'=>'varchar(25)','hy'=>'int(5)','pr'=>'int(5)','provinceid'=>'int(5)','cityid'=>'int(5)','three_cityid'=>'int(5)','mun'=>'int(3)','sdate'=>'varchar(20)','money'=>'int(11)','moneytype'=>'int(11)','content'=>'text','address'=>'varchar(100)','zip'=>'varchar(10)','linkman'=>'varchar(50)','linkjob'=>'varchar(50)','linkqq'=>'varchar(20)','linkphone'=>'varchar(100)','linktel'=>'varchar(50)','linkmail'=>'varchar(150)','website'=>'varchar(100)','x'=>'varchar(100)','y'=>'varchar(100)','logo'=>'varchar(100)','payd'=>'int(8)','integral'=>'int(10)','lastupdate'=>'varchar(10)','cloudtype'=>'int(2)','jobtime'=>'int(11)','r_status'=>'int(2)','firmpic'=>'varchar(100)','rec'=>'int(11)','hits'=>'int(11)','ant_num'=>'int(11)','pl_time'=>'int(11)','pl_status'=>'int(11)','order'=>'int(11) unsigned','admin_remark'=>'varchar(255)','email_dy'=>'int(11)','msg_dy'=>'int(11)','sync'=>'int(11) unsigned','hy_dy'=>'varchar(100)','moblie_status'=>'int(1)','email_status'=>'int(1)','yyzz_status'=>'int(1)','hottime'=>'int(11)','did'=>'int(11)','busstops'=>'text','infostatus'=>'int(11)','conid'=>'int(11)','addtime'=>'int(11)','telphone'=>'varchar(80)','comqcode'=>'varchar(200)')
+; 
 $phpyun_login_log=array('id'=>'int(11)','uid'=>'int(11)','usertype'=>'int(11)','content'=>'text','ip'=>'varchar(20)','ctime'=>'int(11)')
 ; 
 $phpyun_look_job=array('id'=>'int(11)','uid'=>'int(11)','jobid'=>'int(11)','com_id'=>'int(11)','datetime'=>'int(11)','status'=>'int(1)','com_status'=>'int(1)','did'=>'int(11)')

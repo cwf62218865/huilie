@@ -18,7 +18,7 @@ class comtpl_controller extends company{
 		$this->yunset("bannernum",$bannernum);
 		$this->public_action();
 		$this->yunset("js_def",2);
-		$this->com_tpl('comtpl');
+		$this->lt_tpl('comtpl');
 	}
 	function settpl_action(){
 		if($_POST['savetpl']){

@@ -16,7 +16,7 @@ class ad_order_controller extends company{
 		$where="`comid`='".$this->uid."'";
 		$this->get_page("ad_order",$where,$pageurl,"10");
 		$this->yunset("js_def",4);
-		$this->com_tpl('ad_order');
+		$this->lt_tpl('ad_order');
 	}
 	function del_action(){
 		if($_GET['id']){
@@ -60,7 +60,7 @@ class ad_order_controller extends company{
 		$this->yunset("info",$info);
 		$this->yunset("ad",$ad);
 		$this->yunset("js_def",4);
-		$this->com_tpl('ad_detail');
+		$this->lt_tpl('ad_detail');
 	}
 }
 ?>

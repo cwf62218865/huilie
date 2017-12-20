@@ -75,7 +75,7 @@ class integral_controller extends company{
 		$this->yunset("statusList",$statusList);
         $this->public_action();
 		$this->yunset("js_def",4);
-		$this->com_tpl('integral');
+		$this->lt_tpl('integral');
 	}
 	
 }

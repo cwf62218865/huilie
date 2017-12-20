@@ -29,7 +29,7 @@ class message_controller extends company
 		}
 		$this->public_action();
 		$this->yunset("js_def",7);
-		$this->com_tpl('message');
+		$this->lt_tpl('message');
 	}
 }
 ?>

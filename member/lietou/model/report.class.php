@@ -46,7 +46,7 @@ class report_controller extends company{
 		$this->yunset('rows',$rows);
 		$this->public_action();
 		$this->yunset("js_def",7);
-		$this->com_tpl("report");
+		$this->lt_tpl("report");
 	}
 	function del_action(){
 		if($_GET['id']){

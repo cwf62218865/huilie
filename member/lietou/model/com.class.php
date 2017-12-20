@@ -29,7 +29,7 @@ class com_controller extends company{
 		if($allprice['allprice']==''){$allprice['allprice']='0';}
 		$this->yunset("integral",number_format(str_replace("-","", $allprice['allprice'])));
 		$this->yunset("js_def",4);
-		$this->com_tpl('com');
+		$this->lt_tpl('com');
 	}
 	function card_action(){
 		$info=$this->obj->DB_select_once("prepaid_card","`card`='".$_POST['card']."' and `password`='".$_POST['password']."'");

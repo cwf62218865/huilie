@@ -18,7 +18,7 @@ class sysnews_controller extends company
 		$this->obj->DB_update_all("sysmsg","`remind_status`='1'","`fa_uid`='".$this->uid."' and `remind_status`='0'");
 		$this->public_action();
 		$this->yunset("js_def",7);
-		$this->com_tpl('sysnews');
+		$this->lt_tpl('sysnews');
 	}
 	function del_action(){
 		if ($_POST['del']||$_GET['id']){

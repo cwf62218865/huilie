@@ -39,7 +39,7 @@ class coupon_list_controller extends company
 			$this->yunset("info",$info);
 		} 
 		$this->yunset("js_def",4);
-		$this->com_tpl('coupon_list');
+		$this->lt_tpl('coupon_list');
 	}
 	function searchcomname_action(){
 		$name=iconv('utf-8','gbk',trim($_POST['username']));

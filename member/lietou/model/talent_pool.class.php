@@ -81,7 +81,7 @@ class talent_pool_controller extends company
 		$this->yunset("report",$report);
 		$this->company_satic();
 		$this->yunset("js_def",5);
-		$this->com_tpl('talent_pool');
+		$this->lt_tpl('talent_pool');
 	}
 	function remark_action()
 	{
