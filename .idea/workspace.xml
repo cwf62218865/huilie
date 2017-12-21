@@ -2,7 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ce470c3-0e47-415b-bdb5-421987fac890" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/huilie.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/0211fc8d986132acc6909f6c5c6aca54fa74bfb2.file.admin_search.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/09279d93c4d57efc4d1f36d20717b364e9ef91b0.file.jobserver.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/2445356c24cd80f454cac97778f44bb052739961.file.admin_right.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/309af7f0c97f45ae144848d2dbb820182c8d3dda.file.member_send_email.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/32a734c95bfb3bb6d975bcf3120b89562bac4d65.file.admin_right_web.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/3af546800bd777dfb60261b844b0f3375cfb170b.file.hr.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/49949066004529b23f73a4c6d791fb775d6f7aec.file.admin_company.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/533aa0f41af2ef50ecb9cb35a4b2f938fa59b2a3.file.index_search.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/59a6d82eaf1083ffe3da5c091f6c9a92ccc0958d.file.header.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/5a44af3e16e8ae248cf5953d74efe03378118cf6.file.footer.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/67a8fe1564d09e8a6ce9a5cd3c63c084ca627e09.file.info.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/68da30f99938c9c458b3b4835994994e2c2db461.file.member_right.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/75a00f1c798ce3e00435d7ad2063df41e6275880.file.search.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/7855d9a84e82871bd09468cf698a9a33e25f905c.file.header.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/83a9468b5826a46c708b89316dfbc0a98556f38f.file.login.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/8c0f5a2fd834b7d4c8547a74736eb9f596989621.file.pay.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/95f8171e8f3c4084eacdf495025a08f604e85bbd.file.left.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/974261c705d70dc9399426454213408f88a075f2.file.footer.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/a354a2756343840e73d533a58cbd4c5236a4f14e.file.login.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/ad3f5979fe8f02ac8ed8ac7f1865377e8ba2ce4a.file.yqms.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/ad8e2bbfc8f69b21531d59ec266ad6df175c290b.file.index.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/bbb45f0dab04bf583d5952b659a2963bb12c50cc.file.search.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/da9fd4c18c676d21c7fbd0bfc1d77cb7c01034cd.file.checkdomain.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/e60268fbc56ef01fe451ab333c21fb45e4135b32.file.joblist.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/fad45e77e339c58479e299bf24675951b8d5c403.file.index.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/fe1b2d3696fc21736574b195b53e8843ced3b0c3.file.login.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/template/member/com/index.htm" afterPath="$PROJECT_DIR$/app/template/member/com/index.htm" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -15,11 +44,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="footer.htm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/template/member/user/footer.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-21">
+            <state relative-caret-position="27">
               <caret line="186" column="26" lean-forward="false" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
               <folding />
             </state>
@@ -92,8 +121,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -131,6 +160,7 @@
       <workItem from="1513739418666" duration="3461000" />
       <workItem from="1513817067990" duration="654000" />
       <workItem from="1513818081484" duration="2903000" />
+      <workItem from="1513821653907" duration="5000" />
     </task>
     <task id="LOCAL-00001" summary="12-20 周三">
       <created>1513749201981</created>
@@ -157,18 +187,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7018000" />
+    <option name="totallyTimeSpent" value="7023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3182297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3182297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23185265" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35536295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35536295" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -196,6 +226,14 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/template/member/user/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/uploads/data/logo/20170418/14754791367.PNG" />
     <entry file="file://$PROJECT_DIR$/uploads/app/template/default/images/wm.png" />
     <entry file="file://$PROJECT_DIR$/uploads/app/template/default/images/wx.png" />
@@ -206,7 +244,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -214,7 +251,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -231,7 +267,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/template/member/user/footer.htm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
+        <state relative-caret-position="27">
           <caret line="186" column="26" lean-forward="false" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
           <folding />
         </state>
