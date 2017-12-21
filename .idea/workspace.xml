@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ce470c3-0e47-415b-bdb5-421987fac890" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/logo/20170418/14708405239.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/logo/20171221/15138316208.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/logo/20171221/15140616203.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/logo/20171221/15141816207.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/logo/20171221/15143016205.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/huilie.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/04b39780af97eaf5288fc8a1bc3009ab7af681c5.file.admin_myuser.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/04f1d60fd7317b65283fe770e6d1a4cc24dadb54.file.index.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/0664099a5b9ebb780b31dac5643447b9f3da1bbd.file.jobserver.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/1db539932711e8fb89f59079d6eb6ed1e405af01.file.search.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/23b595988d6a6707a9613409135e98de8b3e38a0.file.expect_add.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/261abd646340f74fc7c9a391d067b087ecbc8f59.file.paylog.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/26c955f0f31d05a96895bc2b06d6bd4d880f2e1a.file.index.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/2bc7e39385eb72593a06f9120db24dbcf75b690d.file.user.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/2bf857799a4b0a8948dc4b0e92b27beba8c934ed.file.backtop.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/2d8532e7c5f1c1febb4fb745484ce8c2201c9311.file.paylogtc.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/2f57660ac01bd270710c0f117b51c4a40a8abec9.file.expect_success.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/318361f81ce8305ec4205f90e122d0f06e3b908b.file.index.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/3f251913ad203bbb14227407e13240f355e2fb32.file.left.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/497c566805a872132b82b6a4ebe8ea3aee9410d1.file.resume.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/4a6cb2801792c031fe91376a91e0ae2a40cbd560.file.admin_user_list.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/4c595180002f211fc98b9711238b9ce2fab3b6f2.file.msg.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/4d60d730e67c8d2c1f3bfb7c7e9ad958d34fe0e8.file.left.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/5c4c51aa9806446c4acbf0304b23fa2d193d5b3f.file.admin_right.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/5f95efdd1039c653534e5bf28eddc4af742f9f16.file.admin_model_config.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/64ac66e089e90c531446b9a3839cc666af90c3dc.file.joblist.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/64d22ed8e913f3e7b6c2e39c98a4acf29235b7df.file.search.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/6dbbc33ffca2ac80c96f1d2a13fed6a57a3524c4.file.lietou.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/81bb12866e1d4d1488f263fc7f605d2bafbe255b.file.index_search.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/8688ccb2bc9378c4d2472cbcd18898e6ba2094af.file.uppic.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/919e5f171dd0bdd03f37e58f15151a02f18225b8.file.header.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/9bc5a1b2cd032d709acb411f5dfe2863cfa63cd5.file.footer.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/a00e083beb5b804c3df5dbac6b1ad20e6780797d.file.info.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/b73936ef8ba5195bf14172c35fb896d7dcc4fd0a.file.admin_right_web.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/b90771ec55c1c93a74c2c92a99c86b011f493139.file.msg.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/cb2a11efa0b3cbd66376f0778132a5126d0ffd22.file.index.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/d1c40de6bcd6136f8402ac7b563e5de8dfb85c24.file.index.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/d282d03684c38ab12cad7a0a4a462e68f94eb4b7.file.yqms.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/d3105acb5f9d8b4ff821793462ede1a9c7346718.file.header.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/d52553daee3a0c96c7f862e234487b3bc6a0cefd.file.login.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/e40edda86b4e6e1b91c1e339c90d01002b38a43c.file.binding.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/e8ed6a5219c38df444e6da5b3f81c33f717d044b.file.index.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/ee983d6c59f94b35c22eed05353ce22565a44de0.file.header.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/efc24617bce024e19269c6863ce2929aef7beff2.file.hr.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/f052e5dc6446b6bee9d1a4aca66dd6ec47aef4af.file.footer.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/f472514310d9e0accc8e39a8869da16c048f286b.file.index.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/f57ba58d6bd0ffa648aaca82ae0b02f0acc5022f.file.vs.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/f92a9efa1be1aa0a3f32de6ffb02a6c3d37cc953.file.ok.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/fba2788becb55f04987cd2a8f1a876db074ff3d3.file.login.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/fd3038a463d63e380b048bf38183d0dfd4a90576.file.admin_web_config.htm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data/templates_c/ff07f85bc8bd62cf2bcdfa9dcc6f904bf4f20a6b.file.index.htm.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/logo/20170418/14705504026.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/logo/20170418/14708405239.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/logo/20170418/14745698334.PNG" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/logo/20170418/14787253815.PNG" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/logo/20170418/14754791367.PNG" afterPath="$PROJECT_DIR$/data/logo/20170418/14754791367.PNG" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/template/default/style/css.css" afterPath="$PROJECT_DIR$/app/template/default/style/css.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/plus/config.php" afterPath="$PROJECT_DIR$/data/plus/config.php" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="footer.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/template/member/user/footer.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="186" column="26" lean-forward="false" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Powered</find>
+      <find>#3cb0ed</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>#3689b3</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/about/about.html" />
+        <option value="$PROJECT_DIR$/app/template/member/user/footer.htm" />
+        <option value="$PROJECT_DIR$/app/template/default/style/css.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="huilie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huilie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huilie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huilie" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="huilie" type="b2602c69:ProjectViewProjectNode" />
+              <item name="huilie" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\phpStudy\WWW\huilie\data\logo\20170418" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ce470c3-0e47-415b-bdb5-421987fac890" name="Default" comment="" />
+      <created>1513739417343</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1513739417343</updated>
+      <workItem from="1513739418666" duration="3461000" />
+      <workItem from="1513817067990" duration="654000" />
+      <workItem from="1513818081484" duration="2133000" />
+    </task>
+    <task id="LOCAL-00001" summary="12-20 周三">
+      <created>1513749201981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1513749201981</updated>
+    </task>
+    <task id="LOCAL-00002" summary="12-21 周四">
+      <created>1513818352300</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1513818352300</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6248000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3182297" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23185265" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3434453" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="12-20 周三" />
+    <MESSAGE value="12-21 周四" />
+    <option name="LAST_COMMIT_MESSAGE" value="12-21 周四" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/uploads/data/logo/20170418/14754791367.PNG" />
+    <entry file="file://$PROJECT_DIR$/uploads/app/template/default/images/wm.png" />
+    <entry file="file://$PROJECT_DIR$/uploads/app/template/default/images/wx.png" />
+    <entry file="file://$PROJECT_DIR$/uploads/app/template/member/user/footer.htm" />
+    <entry file="file://$PROJECT_DIR$/uploads/app/template/member/com/footer.htm" />
+    <entry file="file://$PROJECT_DIR$/uploads/app/template/default/footer.htm" />
+    <entry file="file://$PROJECT_DIR$/data/index.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/template/default/style/css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="83" column="28" lean-forward="false" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
+          <folding>
+            <marker date="1513818983235" expanded="true" signature="24638:24748" ph="{...}" />
+            <marker date="1513818983235" expanded="true" signature="43419:43461" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/template/member/user/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="186" column="26" lean-forward="false" selection-start-line="186" selection-start-column="26" selection-end-line="186" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
